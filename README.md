@@ -14,6 +14,7 @@ Uses of technology:
 - ViewModels, Coroutines, Flow
 - Material Design
 - R8 (Obfuscator)
+- MVVM pattern
 
 ![image](https://user-images.githubusercontent.com/52855607/206866842-1ca15713-848e-4cd2-8961-649028074089.png)
 ![image](https://user-images.githubusercontent.com/52855607/206866849-0e717e7c-41d0-4ba9-a77d-f739da427615.png)

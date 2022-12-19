@@ -4,8 +4,8 @@ In this project, I implemented a simple notepad, with the help of which you can 
 
 The main functions of the application:
 - Create in one click
-- Editing without confirmation, when the user changes the note itself, the data is automatically saved;
-- Deleting a note by swiping to the left;
+- Editing without confirmation, when the user changes the note itself, the data is automatically saved
+- Deleting a note by swiping to the left
 
 Uses of technology:
 - Dagger 2 (Hilt)
